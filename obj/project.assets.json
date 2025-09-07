@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\grego\\Projects\\appInheritance\\CSClass.csproj",
-      "projectName": "CSClass",
-      "projectPath": "C:\\Users\\grego\\Projects\\appInheritance\\CSClass.csproj",
+      "projectUniqueName": "C:\\Users\\grego\\Projects\\appInheritance\\project.csproj",
+      "projectName": "project",
+      "projectPath": "C:\\Users\\grego\\Projects\\appInheritance\\project.csproj",
       "packagesPath": "C:\\Users\\grego\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\grego\\Projects\\appInheritance\\obj\\",
       "projectStyle": "PackageReference",

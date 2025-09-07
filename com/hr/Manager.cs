@@ -23,8 +23,13 @@ namespace com.hr
                     .ToList();
             }
         }
-        
+
         public Car CompanyCar
         { get; set; }
+        
+        public override string ToString()
+        {
+            return $"Manager {base.ToString()} Company Car: {CompanyCar?.Assigned} \n {string.Join("\n", Employees)}";
+        }
     }
 }

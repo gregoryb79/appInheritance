@@ -29,8 +29,10 @@ namespace CSClass
             }
 
             int idx = new Random().Next(cars.Count);
-            m.CompanyCar = cars[idx];            
+            m.CompanyCar = cars[idx];
             cars[idx].Assigned = true;
+            Console.WriteLine($"Manager {m.Firstname} {m.Lastname} has car ID {m.CompanyCar.ID}");
+            Console.WriteLine(m);
         }
         
     }

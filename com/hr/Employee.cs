@@ -27,5 +27,10 @@ namespace com.hr
             emp.Salary = Convert.ToDecimal(toks[2]);
             return emp;
         }
+
+        public override string ToString()
+        {
+            return $"Employee [firstname = {Firstname}, lastname = {Lastname}, salary = {Salary}]";
+        }
     }
 }
