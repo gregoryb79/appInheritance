@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/rhyme/CSClass/CSClass.csproj": {}
+    "C:\\Users\\grego\\Projects\\appInheritance\\CSClass.csproj": {}
   },
   "projects": {
-    "/home/rhyme/CSClass/CSClass.csproj": {
+    "C:\\Users\\grego\\Projects\\appInheritance\\CSClass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/rhyme/CSClass/CSClass.csproj",
+        "projectUniqueName": "C:\\Users\\grego\\Projects\\appInheritance\\CSClass.csproj",
         "projectName": "CSClass",
-        "projectPath": "/home/rhyme/CSClass/CSClass.csproj",
-        "packagesPath": "/home/rhyme/.nuget/packages/",
-        "outputPath": "/home/rhyme/CSClass/obj/",
+        "projectPath": "C:\\Users\\grego\\Projects\\appInheritance\\CSClass.csproj",
+        "packagesPath": "C:\\Users\\grego\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\grego\\Projects\\appInheritance\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/rhyme/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\grego\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -32,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -43,16 +48,35 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.17, 5.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.413\\RuntimeIdentifierGraph.json"
         }
       }
     }
