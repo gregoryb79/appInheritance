@@ -14,7 +14,7 @@
             "preLaunchTask": "build",
             "internalConsoleOptions": "neverOpen",
             "OS-COMMENT4": "If you have changed target frameworks, make sure to update the program path.",
-            "program": "${workspaceFolder}/bin/Debug/net5.0/CSClass.dll",
+            "program": "${workspaceFolder}/bin/Debug/net8.0/CSClass.dll",
             "args": [],
             "cwd": "${workspaceFolder}",
             "OS-COMMENT5": "For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console",

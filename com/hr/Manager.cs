@@ -19,9 +19,12 @@ namespace com.hr
                 filename = value;
                 this.Employees = File.ReadAllLines(value)
                     .Skip(1)
-                    .Select(null)
-                    .ToList();               
+                    .Select(line => Employee.CsvToEmp(line))
+                    .ToList();
             }
         }
+        
+        public Car CompanyCar
+        { get; set; }
     }
 }
