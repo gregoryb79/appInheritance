@@ -1,0 +1,16 @@
+/home/rhyme/CSClass/bin/Debug/net5.0/CSClass
+/home/rhyme/CSClass/bin/Debug/net5.0/CSClass.deps.json
+/home/rhyme/CSClass/bin/Debug/net5.0/CSClass.runtimeconfig.json
+/home/rhyme/CSClass/bin/Debug/net5.0/CSClass.runtimeconfig.dev.json
+/home/rhyme/CSClass/bin/Debug/net5.0/CSClass.dll
+/home/rhyme/CSClass/bin/Debug/net5.0/ref/CSClass.dll
+/home/rhyme/CSClass/bin/Debug/net5.0/CSClass.pdb
+/home/rhyme/CSClass/obj/Debug/net5.0/CSClass.csprojAssemblyReference.cache
+/home/rhyme/CSClass/obj/Debug/net5.0/CSClass.GeneratedMSBuildEditorConfig.editorconfig
+/home/rhyme/CSClass/obj/Debug/net5.0/CSClass.AssemblyInfoInputs.cache
+/home/rhyme/CSClass/obj/Debug/net5.0/CSClass.AssemblyInfo.cs
+/home/rhyme/CSClass/obj/Debug/net5.0/CSClass.csproj.CoreCompileInputs.cache
+/home/rhyme/CSClass/obj/Debug/net5.0/CSClass.dll
+/home/rhyme/CSClass/obj/Debug/net5.0/ref/CSClass.dll
+/home/rhyme/CSClass/obj/Debug/net5.0/CSClass.pdb
+/home/rhyme/CSClass/obj/Debug/net5.0/CSClass.genruntimeconfig.cache
